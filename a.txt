@@ -1,5 +1,0 @@
-my name is Akhilesh
-today is friday - yay
-this is first file
-added new line
-added content in master for commit
